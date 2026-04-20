@@ -18,7 +18,7 @@ Based on the data analysis, here are the major findings:
 ## 📸 Dashboard Preview
 *(Here you can see the interactive dashboard created to visualize the metrics)*
 
-![Amazon Sales Dashboard] [[Excel Amazon.png](https://github.com/musthafaibm1045-lab/Amazon-Sales-Data-Analysis-/blob/main/Excel%20Amazon.png)]
+![Amazon Sales Dashboard] [[Excel Amazon.png]
 (https://github.com/musthafaibm1045-lab/Amazon-Sales-Data-Analysis-/blob/main/Amazon%20Dashboard.png)
 
 This analysis demonstrates how data-driven decisions can optimize pricing strategies and inventory management. By focusing marketing efforts on high-demand accessories and applying targeted 50-60% discounts, businesses can significantly maximize their revenue and market penetration.
